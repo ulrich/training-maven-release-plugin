@@ -10,6 +10,13 @@
   <name>bar</name>
   <url>http://maven.apache.org</url>
 
+   <scm>
+      <connection>scm:git:ssh://git@github.com/softwarevidal/excalibur.git</connection>
+      <url>git:ssh://git@github.com/softwarevidal/excalibur.git</url>
+   </scm>
+
+
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
