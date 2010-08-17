@@ -3,19 +3,17 @@
 
   <groupId>foo</groupId>
   <artifactId>bar</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>bar</name>
   <url>http://maven.apache.org</url>
 
    <scm>
-      <connection>scm:git:ssh://git@github.com/softwarevidal/excalibur.git</connection>
-      <url>git:ssh://git@github.com/softwarevidal/excalibur.git</url>
+      <connection>scm:git:ssh://git@github.com/ulrich/bar.git</connection>
+      <url>git:ssh://git@github.com/ulrich/bar.git</url>
    </scm>
 
-
-  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
